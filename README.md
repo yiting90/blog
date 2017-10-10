@@ -1,4 +1,4 @@
-# blog
+# blog   
 URL输入 （浏览器发送请求）
 URL：统一资源定为符（Uniform Resource Locator），用于定位资源；包含内容：协议，域名，端口号等等
 
